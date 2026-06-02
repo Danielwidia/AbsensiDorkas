@@ -1,0 +1,128 @@
+{
+  "logs": [
+    {
+      "id": "ejbs29sfn",
+      "userId": "dan",
+      "userName": "Daniel",
+      "timestamp": "2026-06-01T12:56:40.434Z",
+      "type": "leave",
+      "remarks": "Sakit",
+      "location": {
+        "lat": 0,
+        "lng": 0
+      },
+      "status": "valid",
+      "photo": ""
+    },
+    {
+      "id": "i6w6shs3y",
+      "userId": "dan",
+      "userName": "Daniel",
+      "timestamp": "2026-06-01T13:05:08.473Z",
+      "type": "out",
+      "remarks": "",
+      "location": {
+        "lat": -6.727701,
+        "lng": 111.128428
+      },
+      "status": "valid",
+      "photo": ""
+    },
+    {
+      "id": "y2415r1bc",
+      "userId": "dan",
+      "userName": "Daniel",
+      "timestamp": "2026-06-01T13:05:44.183Z",
+      "type": "out",
+      "remarks": "",
+      "location": {
+        "lat": -6.727701,
+        "lng": 111.128428
+      },
+      "status": "valid",
+      "photo": ""
+    },
+    {
+      "id": "1l5si4rgz",
+      "userId": "dan",
+      "userName": "Daniel",
+      "timestamp": "2026-06-01T13:07:35.139Z",
+      "type": "out",
+      "remarks": "",
+      "location": {
+        "lat": -6.727701,
+        "lng": 111.128428
+      },
+      "status": "valid",
+      "photo": ""
+    },
+    {
+      "id": "o5b9902gm",
+      "userId": "dan",
+      "userName": "Daniel",
+      "timestamp": "2026-06-01T13:08:03.782Z",
+      "type": "leave",
+      "remarks": "Sakit",
+      "location": {
+        "lat": 0,
+        "lng": 0
+      },
+      "status": "valid",
+      "photo": ""
+    },
+    {
+      "id": "tsd83z0fe",
+      "userId": "dan",
+      "userName": "Daniel",
+      "timestamp": "2026-06-01T13:10:16.485Z",
+      "type": "leave",
+      "remarks": "Sakit",
+      "location": {
+        "lat": 0,
+        "lng": 0
+      },
+      "status": "valid",
+      "photo": ""
+    },
+    {
+      "id": "roou3lk5l",
+      "userId": "dan",
+      "userName": "Daniel",
+      "timestamp": "2026-06-01T13:11:10.501Z",
+      "type": "out",
+      "remarks": "",
+      "location": {
+        "lat": -6.727701,
+        "lng": 111.128428
+      },
+      "status": "valid",
+      "photo": ""
+    }
+  ],
+  "users": [
+    {
+      "id": "admin",
+      "username": "admin",
+      "password": "123",
+      "name": "Administrator",
+      "role": "admin",
+      "facePhoto": null,
+      "status": "active"
+    },
+    {
+      "id": "123",
+      "name": "Budi Santoso",
+      "role": "teacher"
+    },
+    {
+      "id": "456",
+      "name": "Siti Aminah",
+      "role": "student"
+    }
+  ],
+  "config": {
+    "lat": -6.7275881,
+    "lng": 111.1284095,
+    "radius": 100
+  }
+}
